@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string-array name="words">
+        <item>1 Moment In Time, by Whitney Houston</item>
+        <item>1 Sweet Day, Mariah and Boyz II Men</item>
+        <item>1 Love, Bob Marley</item>
+        <item>2 Hearts, Bruce Springsteen</item>
+        <item>2 Tribes, Frankie Goes to Hollywood</item>
+        <item>2 Princes, Spin Doctors</item>
+        <item>3, Britney Spears</item>
+        <item>3 Steps to Heaven, Eddie Cochran</item>
+        <item>3 Times A Lady</item>
+        <item>4 In The Morning, Gwen Stefani</item>
+        <item>4 Minutes, Madonna</item>
+        <item>4 Walls, Massive Attack vs. Burial</item>
+        <item>5 Years, David Bowie</item>
+        <item>5 In A Row, D-Generation</item>
+        <item>5 Magics, Megadeth</item>
+        <item>6 Words Long, Weird Al Yankovic</item>
+        <item>6 Degrees of Separation, The Script</item>
+        <item>7 Wonders, Fleetwood Mac</item>
+        <item>7, Taylor Swift</item>
+        <item>7, Prince</item>
+        <item>8 Days A Week, The Beatles</item>
+        <item>8 Miles Wide, Storm Large</item>
+        <item>8 Mile, Eminem</item>
+        <item>9, Pattie Smith</item>
+        <item>9 to 5, Dolly Parton</item>
+        <item>9 Lives, Aerosmith</item>
+    </string-array>
+</resources>
