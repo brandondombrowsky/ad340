@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Click Behavior App</string>
+    <string name="pac_person">Tap Pac person to eat some bacon!</string>
+    <string name="bacon">OMG yum! But I better not eat too much...</string>
+    <string name="you_win">I ate just enough.</string>
+    <string name="you_loose">Oh, no, I ate too much</string>
+    <string name="pac_person_content_description">Pac Person</string>
+    <string name="dot_content_description">Bacon</string>
+    <string name="you_win_content_description">You Win</string>
+    <string name="you_loose_content_description">You Loose</string>
+</resources>
