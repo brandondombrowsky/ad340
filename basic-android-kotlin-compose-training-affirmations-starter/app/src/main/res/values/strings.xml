@@ -1,0 +1,31 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Mini Schnauzers</string>
+    <string name="schnauzer1">Cute as a bug in a rug.</string>
+    <string name="schnauzer2">Look at me dad!</string>
+    <string name="schnauzer3">Whos my favorite good girl?</string>
+    <string name="schnauzer4">What a heartbreak!</string>
+    <string name="schnauzer5">Pay attention to me!</string>
+    <string name="schnauzer6">Mommy sure loves her sweet boy.</string>
+    <string name="schnauzer7">I couldnt be cuter if I tried!</string>
+    <string name="schnauzer8">Strike a pose!</string>
+    <string name="schnauzer9">Daddys little love muffin!</string>
+    <string name="schnauzer10">Whos a good boy?</string>
+    <string name="schnauzer11">Lets play mommy!</string>
+    <string name="schnauzer12">I love hugs and kisses!</string>
+    <string name="schnauzer13">Ahhhhh, that was a nice nap!</string>
+</resources>
